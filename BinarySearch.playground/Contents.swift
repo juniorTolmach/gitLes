@@ -30,4 +30,4 @@ let result = binarySearch(list: list, item: 9)
 
 print(result)
 
-print("git123s")
+print("git123")
