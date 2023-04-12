@@ -14,4 +14,4 @@ func removeElement(_ nums: inout [Int], _ val: Int) -> Int {
 
 removeElement([1,3, 4,1 , 5], 1)
 
-print("file2")
+print("fildgfdge2")
